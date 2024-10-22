@@ -84,7 +84,7 @@ class DataTransformartion:
             input_features_test_arr = preprocessing_obj.transform(input_features_test_df)
 
             train_arr = np.c_[input_features_train_arr, np.array(target_features_train_df)]
-            test_arr = np.c_[input_features_train_arr, np.array(target_features_train_df)]
+            test_arr = np.c_[input_features_test_arr, np.array(target_features_test_df)]
 
             logging.info("saved preprocessed object")
 
