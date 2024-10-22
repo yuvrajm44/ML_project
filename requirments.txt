@@ -3,4 +3,5 @@ seaborn
 pandas
 seaborn
 scikit-learn
+dill
 #-e .
