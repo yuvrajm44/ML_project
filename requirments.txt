@@ -4,4 +4,8 @@ pandas
 seaborn
 scikit-learn
 dill
+matplotlib
+Flask
+catboost
+xgboost
 #-e .
