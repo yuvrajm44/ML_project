@@ -22,8 +22,10 @@ The dataset can be accessed here : https://www.kaggle.com/datasets/spscientist/s
 ## Pre-processing
 Verified that the dataset had no missing or duplicate values, ensuring it was clean and ready for analysis.
 
-# EDA
+## EDA
+### distribution of average scores across all students and  histogram illustrating average scores with a hue representing gender.
 ![{96AF5931-E7E4-4988-8C96-669B638DDA5B}](https://github.com/user-attachments/assets/d50d78d4-6395-4727-bd42-fb3fe6ea7825)
+* Females performs better than males in terms of both total and average scores.
 
 
 ## Installation
