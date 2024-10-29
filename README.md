@@ -83,9 +83,9 @@ The dataset can be accessed here : https://www.kaggle.com/datasets/spscientist/s
 ![{907D5C79-EC00-4C00-8BB7-38C5A62720FF}](https://github.com/user-attachments/assets/7a34141e-0b11-45f3-8023-0852e0780b15)
 
 ### Create a docker in VS code terminal
-docker build -t testdockerkrish.azurecr.io/mltest:latest .
-docker login testdockerkrish.azurecr.io
-docker push testdockerkrish.azurecr.io/mltest:latest
+docker build -t testdockeryuvraj.azurecr.io/mltest:latest .
+docker login testdockeryuvraj.azurecr.io
+docker push testdockeryuvraj.azurecr.io/mltest:latest
 
 ### Create a Azure Web App 
 ![{8812D0E7-5057-4B99-A433-CD3568FEF02F}](https://github.com/user-attachments/assets/367483ff-307c-4141-a4c0-ffcc5004c431)
